@@ -18,7 +18,7 @@ about that approach on their site, but essentially, your steps will be:
       maven(url = "https://jitpack.io")
   }
   dependencies {
-      implementation("group.path.here:project-name-here:<version-here>")
+      implementation("com.phoenixredwolf:colorlibrary:1.0.1")
   }
   ```
 
